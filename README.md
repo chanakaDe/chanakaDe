@@ -2,6 +2,11 @@
 
 <div align="center">
 		<img src="https://github.com/carltheperson/carltheperson/blob/main/animation.svg" width="400" height="60" alt="I can't center a div">
+	
+	 <video width="320" height="240" controls>
+  <source src="https://cdn.dribbble.com/users/285475/videos/16198/instagram.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 </div>
 
 <!--
