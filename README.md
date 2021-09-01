@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+		<img src="animation.svg" width="400" height="60" alt="I can't center a div">
+</div>
+
 <!--
 **chanakaDe/chanakaDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
