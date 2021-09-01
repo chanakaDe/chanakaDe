@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-		<img src="animation.svg" width="400" height="60" alt="I can't center a div">
+		<img src="https://github.com/carltheperson/carltheperson/blob/main/animation.svg" width="400" height="60" alt="I can't center a div">
 </div>
 
 <!--
