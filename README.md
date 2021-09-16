@@ -1,8 +1,7 @@
-### Hi there 👋
 
-<div align="center">
-		<img src="https://github.com/carltheperson/carltheperson/blob/main/animation.svg" width="400" height="60" alt="I can't center a div">
-</div>
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)v>
 
 <!--
 **chanakaDe/chanakaDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
