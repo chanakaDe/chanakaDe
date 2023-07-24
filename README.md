@@ -25,12 +25,11 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
-**Web/Full Stack projects <Highlights>**
+**My own pet Project <a.k.a: Tech Startup>**
 
 
-[![TekNekk](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://www.teknekk.com/)
-[![SFR Hub](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://www.sfrhub.com/)
-[![TechnoHive](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://www.technohive.tech/)
+[![TekNekk](https://img.shields.io/badge/-🦠&nbsp;TekNekk-000000?style=flat)](https://www.teknekk.com/)
+
 
 
 
