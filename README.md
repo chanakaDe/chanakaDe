@@ -24,5 +24,13 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
+**Web/Full Stack projects <Highlights>**
+
+
+[![TekNekk](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://www.teknekk.com/)
+[![SFR Hub](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://www.sfrhub.com/)
+[![TechnoHive](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://www.technohive.tech/)
+
+
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=chanakaDe&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaDe&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
