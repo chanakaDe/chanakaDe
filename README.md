@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
+![PhP](https://img.shields.io/badge/-Php-000000?style=flat&logo=php)
 
 **Some of the technologies I have worked with**
 
